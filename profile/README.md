@@ -19,6 +19,12 @@ Security Mountain is an open-source community driven project aiming to help indi
 To run the project locally:
 <code>
 npm install yarn
+</code>
+<code>
 yarn install gatsby
+</code>
+<code>
 yarn gatsby develop
 </code>
+
+Or join the discussions to discuss what and where content should be on the Mountain?
