@@ -11,3 +11,14 @@
     A project to help individuals and businesses increase their online security posture, step-by-step.   
   </p>
 </div>
+
+<br><br>
+# Contributing 
+Security Mountain is an open-source community driven project aiming to help individuals and businesses increase their online security posture, step-by-step.
+
+To run the project locally:
+<code>
+npm install yarn
+yarn install gatsby
+yarn gatsby develop
+</code>
