@@ -17,7 +17,7 @@
 Security Mountain is an open-source community driven project aiming to help individuals and businesses increase their online security posture, step-by-step.
 
 To run the project locally:
-<code>
+<br><code>
 npm install yarn
 </code><br>
 <code>
